@@ -1,0 +1,39 @@
+body
+{
+	background-color: rgb(255,249,249);
+	font-family: sans-serif;
+}
+
+p, h1, h2
+{
+	color: rgb(128, 0, 0);
+}
+
+footer
+{
+	color: rgb(128, 0, 0);
+	font-size: 9px;
+	clear: both;
+}	
+
+img
+{
+	border: 1px solid rgb(128, 0, 0);
+	width: 55%;
+}
+
+.centraliza
+{
+	text-align: center;
+}
+
+.coluna
+{
+	float: left;
+	width: 31%;
+	margin: 1%;
+	text-align: justify;
+}
+
+
+
