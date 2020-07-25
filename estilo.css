@@ -9,9 +9,20 @@ p, h1, h2
 	color: rgb(128, 0, 0);
 }
 
+header
+{
+	background-color: rgb(128, 0, 0);
+}
+
+header h1
+{
+	color: rgb(255,249,249);
+}
+
 footer
 {
-	color: rgb(128, 0, 0);
+	background-color: rgb(128, 0, 0);
+	color: rgb(255,249,249);
 	font-size: 9px;
 	clear: both;
 }	
@@ -35,5 +46,17 @@ img
 	text-align: justify;
 }
 
+.coluna_dupla
+{
+	float: left;
+	width: 47%;
+	margin: 1%;
+	text-align: justify;
+}
 
-
+.coluna_unica
+{
+	margin: 1%;
+	text-align: justify;
+	clear: both;
+}
